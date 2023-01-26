@@ -61,6 +61,8 @@ while True:
 ```
 
 ### OUTPUT:
+![image](https://user-images.githubusercontent.com/118679883/214768686-331c6239-a379-4855-a833-520daa705ee1.png)
+
 
 
 
